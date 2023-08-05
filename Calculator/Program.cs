@@ -11,6 +11,7 @@ namespace Calculator
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        //Nah this wildin
         [STAThread]
         static void Main()
         {
